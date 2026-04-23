@@ -11,7 +11,7 @@ Backend-focused engineer building **scalable, production-grade systems** with **
 * **Backend:** C#, .NET / ASP.NET Core, REST APIs
 * **Cloud & Data:** Azure, Azure Data Factory, SQL Server
 * **Architecture:** Clean Architecture, SOLID, proven design patterns
-* **Frontend:** Vue.js (integration & admin-focused UI)
+* **Frontend:** Angular, Vue.js (integration & admin-focused UI)
 
 ---
 
